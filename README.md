@@ -4,7 +4,7 @@
 
 - An ASP.NET Core MVC web application with search functionality to retrieve the most relevant posts (Q&A) based on a keyword(s), similar to Stack Overflow, leveraging the public StackOverflow2010 database.
 - Tech Stack: C#, ASP.NET Core MVC, MSSQL
-- Users can easily retrieve posts with keyword searches, view paginated results with relevant details like question titles, answer descriptions, number of answers and their votes, authors’ information.
+- Users can easily retrieve posts with keyword searches, view paginated results with relevant details like question titles, answer descriptions, number of answers and their votes, authors’ information (their usernames, reputation scores and badge count) and get notified for ongoing searches (via a push notification feature).
 
 ## Running the Application
 
